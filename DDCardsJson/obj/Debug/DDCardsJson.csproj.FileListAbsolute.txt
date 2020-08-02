@@ -1,0 +1,13 @@
+C:\Users\Jonathan\source\repos\DDCardsJson\DDCardsJson\bin\Debug\DDCardsJson.exe.config
+C:\Users\Jonathan\source\repos\DDCardsJson\DDCardsJson\bin\Debug\DDCardsJson.exe
+C:\Users\Jonathan\source\repos\DDCardsJson\DDCardsJson\bin\Debug\DDCardsJson.pdb
+C:\Users\Jonathan\source\repos\DDCardsJson\DDCardsJson\bin\Debug\AngleSharp.dll
+C:\Users\Jonathan\source\repos\DDCardsJson\DDCardsJson\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jonathan\source\repos\DDCardsJson\DDCardsJson\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Jonathan\source\repos\DDCardsJson\DDCardsJson\bin\Debug\AngleSharp.xml
+C:\Users\Jonathan\source\repos\DDCardsJson\DDCardsJson\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jonathan\source\repos\DDCardsJson\DDCardsJson\obj\Debug\DDCardsJson.csprojAssemblyReference.cache
+C:\Users\Jonathan\source\repos\DDCardsJson\DDCardsJson\obj\Debug\DDCardsJson.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\source\repos\DDCardsJson\DDCardsJson\obj\Debug\DDCardsJson.csproj.CopyComplete
+C:\Users\Jonathan\source\repos\DDCardsJson\DDCardsJson\obj\Debug\DDCardsJson.exe
+C:\Users\Jonathan\source\repos\DDCardsJson\DDCardsJson\obj\Debug\DDCardsJson.pdb
